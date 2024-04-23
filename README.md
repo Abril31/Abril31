@@ -75,6 +75,9 @@
 <a href="mailto:brivaldi0416@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  abril-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+</br>
+brivaldi0416@gmail.com
+</br>
 </li>
 	
 </ul>
